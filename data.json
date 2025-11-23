@@ -1,0 +1,20 @@
+[
+  {
+    "region": "الجزائر العاصمة",
+    "lat": 36.75,
+    "lon": 3.06,
+    "density": 12454.58,
+    "original_similarity": 94,
+    "adjusted_similarity": 114.73,
+    "language": "العربية"
+  },
+  {
+    "region": "وهران",
+    "lat": 35.69,
+    "lon": -0.64,
+    "density": 754.24,
+    "original_similarity": 87,
+    "adjusted_similarity": 93,
+    "language": "العربية"
+  }
+]
